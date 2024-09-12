@@ -16,7 +16,7 @@
 1. InVeRnyako
 
 ## Spanish Translations
-1. Marcelo R. Anton (xSmil3) and Josue Martinez (Ezio93)
+1.[Marcelo R. Anton] https://github.com/marceloanton
 
 ## Polish Translations
 1. yorunea
@@ -46,7 +46,7 @@
 1. sponsered by [A-Calc](http://www.a-calc.de)
 
 ## Spanish Translations
-1. sponsered by [A-Calc](http://www.a-calc.de)
+1.[Marcelo R. Anton] https://github.com/marceloanton
 
 ## Polish Translations
 1. sponsered by [A-Calc](http://www.a-calc.de)

@@ -1,0 +1,105 @@
+A-Calc www.a-calc.de Community translations
+* Translate ES to your right native language between the two quotations marks
+* include all special characters e.g. {0} | {1} | {2}, spaces or \n
+* dont translate switch cases for example: switch (Art) or case "Pflanzenfresser": lines 
+
+case "es":
+                    textViewKnock = "--Repetir-- Lleva siempre más Bolas y Comida\nEl animal debe ser dañado por debajo del 20%\nLa Bola se romperá cada ";
+                    buttonRecipes = "Recetas";
+                    TotalTime2 = "Tiempo total (+20 seg de combate hasta nueva Bola): ";
+                    passiveTame = "Domesticación pasiva (Acércate y aliméntalo)";
+                    TamingSkill = "Pericia en domesticación";
+                    TamingMusicBuff = "Acordeón: De mar y velas";
+                    TamingKillBuff = "Misión 'Asesino de ballena esperma'";
+                    TamingSettings = "Abrir configuración de domesticación \u2699";
+
+                    Taming = "Domesticación";
+                    Breeding = "Cría";
+                    LevelText = "Nivel:";
+                    DinoChoice = "Elige un animal:";
+                    TotalTime = "Tiempo total de domesticación por alimentación: ";
+                    textViewfoodrate = "Multiplicador de intervalo de alimentación x";
+                    textViewtamingmulti = "Multiplicador de domesticación x";
+                    textViewAddRemoveFood = "añadir/quitar comida (toca el ícono de comida)";
+                    Name_Saddle = "Silla";
+                    Name_PlatformSaddle = "Silla de carga";
+                    
+                    baby_time = "bebé";
+                    juvenile_time = "juvenil";
+                    adolescent = "adolescente";
+                    total_maturation = "Maduración total: ";
+                    total_breeding = "Tiempo total de cría: ";
+                    total_incubation = "Tiempo de incubación: ";
+                    total_pregnancy = "Tiempo de gestación: ";
+                    temprange = "Temperatura: ";
+                    hatchmultitext = "Multiplicador de incubación x";
+                    maturemultitext = "Multiplicador de maduración x";
+
+                    buttonWiki = "Abrir página oficial de Atlas Wiki";
+                    buttonCarryable = "Abrir resúmenes";
+                    buttonRate = "Calificar A-Calc";
+                    Bewerten = "Por favor califica";
+                    XPtext = "XP por matar: ";
+                    AutoGathering = "Recolecta automáticamente (deambulando): ";
+                    textViewGathering = "recolección de recursos Top 3";
+                    FavorsFood = "Prefiere comida: ";
+                    TotalFood = "Intervalo de alimentación: ";
+                    FoodRate = "Tasa de comida: ";
+                    Effectiveness = "Efectividad: ";
+                    LvLAfter = "Nivel después de domesticar: ";
+                    MaxLvL = "Nivel máx.: ";
+                    BonusLvL = "Nivel de bonificación";
+                    XPLvL = "XP Nivel";
+                    
+                    AffinityCustomCalc = "Afinidad necesaria: {0} \nAfinidad suministrada: {1}";
+                    
+                    PatchNotes = "Notas del parche";
+                    ArkMap = "Mapas de Atlas";
+                    Engrams = "Engramas | Habilidades";
+                    Commands = "Comandos de administrador";
+                    
+                    Reminder = "No me lo recuerdes";
+                    if (hideSaddle == true)
+                    {
+                        textViewSaddle = "Silla - mostrar";
+                    }
+                    else
+                    {
+                        textViewSaddle = "Silla - ocultar";
+                    }
+
+                    if (hide == true)
+                    {
+                        textViewsum = "Detalles - mostrar";
+                    }
+                    else
+                    {
+                        textViewsum = "Detalles - ocultar";
+                    }
+
+                    if (hideBreeding == true)
+                    {
+                        textViewtimesofbreeding = "Tiempos de cría - mostrar";
+                    }
+                    else
+                    {
+                        textViewtimesofbreeding = "Tiempos de cría - ocultar";
+                    }
+                    
+                    MoreTools = "Más herramientas";
+                    switch (Art)
+                    {
+                        case "Pflanzenfresser":
+                            textViewArt = "tipo: Herbívoro";
+                            break;
+                        case "Fleischfresser":
+                            textViewArt = "tipo: Carnívoro";
+                            break;
+                        case "Aasfresser":
+                            textViewArt = "tipo: Carroñero";
+                            break;
+                        case "Allesfresser":
+                            textViewArt = "tipo: Omnívoro";
+                            break;
+                    }
+                    break;

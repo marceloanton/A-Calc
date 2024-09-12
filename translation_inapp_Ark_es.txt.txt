@@ -1,0 +1,155 @@
+A-Calc www.a-calc.de Community translations
+* Translate EN to your right native language between the two quotations marks
+* include all special characters e.g. {0} | {1} | {2}, spaces or \n
+* dont translate switch cases for example: switch (Art) or case "Pflanzenfresser": lines 
+* dont translate conditions for example: if (DinoName == "Selected Dino is Rock Elemental") lines
+
+
+
+
+case "es":
+    dinonametranslate = "Mantener nombres de dinos en inglés";
+    TamingSettings = "Abrir configuración \u2699";
+    PicChangeTip = "cambiar entre imágenes (haz clic en la imagen)";
+    Taming = "Domesticar";
+    Breeding = "Crianza";
+    LevelText = "Nivel:";
+    DinoChoice = "Elige un Dino:";
+    DinoChoiceStats = "Elige un Dino:";
+    uselesspoints = "puntos inútiles";
+    DinoStatsLegend = "Un Dino recibe un punto de estadística por cada nivel \na nivel 150 tendrá 149 puntos de estadística (Nivel Dino - 1) \nCada uno de estos puntos se asigna a una estadística aleatoria, con una probabilidad de 1/7 (14.28%) de mejorar cada estadística \nLa velocidad de movimiento de un Dino salvaje no aumentará, por lo que ese punto será inútil \nLa estadística de torpor aumenta de manera estática con cada nivel \nSolo funciona para Dinos salvajes, derríbalo y verifica sus estadísticas para obtener buenas estadísticas base";
+    TotalTime = "Tiempo total de domesticación: ";
+    textViewfoodrate = "Multiplicador de tasa de comida x";
+    textViewtamingmulti = "Multiplicador de domesticación x";
+    textViewKnock = "K.o. - Impactos corporales de proyectiles (rotación de 5 segundos)";
+    textViewWeapon = "DMG del arma";
+    textViewMelee = "% DMG cuerpo a cuerpo";
+    CurrentTorpornull = "Dino despierto";
+    textViewCurrentTorpor = "Torpor actual";
+    buttonGiveNacro = "Usar";
+    BufferText = "Búfer: ";
+    MaxNacros = "Para el máximo: ";
+    textViewNarcoGive = "Narcóticos:";
+    textViewTargetFood = "Comida objetivo:";
+    textViewStarvedIn = "Hambriento en:";
+    textViewCurrentFood = "Comida actual";
+    textViewMaxFood = "Comida máxima";
+    CurrentFoodnull = "¡Alimenta al Dino!";
+    checkBoxNarcotic = "Bayas en lugar de Narcóticos";
+    checkBoxBioToxin = "BioToxina en lugar de Narcóticos";
+    checkBoxAscerbic = "Ácido ascórbico en lugar de Narcóticos";
+    textViewFavoriteKibble = "Pienso favorito";
+    textViewproducesKibble = "Produce pienso";
+    textViewAddRemoveFood = "agregar/quitar comida (toca el ícono de la comida)";
+    Name_Saddle = "Silla de montar";
+    Name_PlatformSaddle = "Silla de montar con plataforma";
+    Name_noKibble = "ninguno";
+    Name_for = "para: ";
+    baby_time = "bebé";
+    juvenile_time = "juvenil";
+    adolescent = "adolescente";
+    total_maturation = "Maduración total: ";
+    total_breeding = "Tiempo total de cría: ";
+    total_incubation = "Tiempo de incubación: ";
+    total_pregnancy = "Tiempo de gestación: ";
+    temprange = "Temperatura de incubación: ";
+    hatchmultitext = "Multiplicador de eclosión x";
+    maturemultitext = "Multiplicador de maduración x";
+    textViewCarryable = "Transportable por";
+    buttonWiki = "Abrir la página oficial de Ark Wiki";
+    buttonCarryable = "Abrir vistas generales";
+    buttonRate = "Calificar A-Calc";
+    buttonKibble = "Recetas";
+    Bewerten = "Por favor, califica";
+    XPtext = "XP por matar: ";
+    textViewGathering = "recursos más recolectados Top 3";
+    FavorsFood = "Comida favorita: ";
+    TotalFood = "Comida total: ";
+    FoodRate = "Tasa de comida: ";
+    Effectiveness = "Efectividad: ";
+    LvLAfter = "Nivel después de domesticar: ";
+    MaxLvL = "Nivel máximo: ";
+    BonusLvL = "Nivel de bonificación";
+    XPLvL = "XP Nivel";
+    Torpor = "Torpor total: {0} / Tasa: {1} \nTiempo para drenar el torpor: {2} \nTiempo para reponer narcóticos (Búfer): {3} \nTiempo para reponer bayas (Búfer): {4} \nTiempo para reponer Bio Toxina (Búfer): {5} \nTiempo para reponer ácido ascórbico (Búfer): {6}";
+    berrys = "bayas";
+    narcos = "narcóticos";
+    biotoxin = "Bio Toxina";
+    AffinityCustomCalc = "Afinidad necesaria: {0} \nAfinidad proporcionada: {1}";
+    Alarm = "Alarma @";
+    AlarmMin = "min";
+    AlarmSet = "Establecer";
+    Start = "Iniciar";
+    Stop = "Detener";
+    DinoStatsButton = "Estadísticas del Dino";
+    PatchNotes = "Notas de parche";
+    ArkMap = "Mapas de Ark";
+    Engrams = "Engramas";
+    Commands = "Comandos de administrador";
+    Stat_ = "Estadística";
+    Base_ = "Base";
+    PerLvL_ = "Por nivel \n(Salvaje)";
+    PerLvLT_ = "Por nivel \n(Domesticado)";
+    DinoStat_ = "Estadística del Dino";
+    Points_ = "Puntos";
+    Reminder = "No recordarme";
+    if (hideSaddle == true)
+    {
+        textViewSaddle = "Silla de montar - mostrar";
+    }
+    else
+    {
+        textViewSaddle = "Silla de montar - ocultar";
+    }
+
+    if (hideKibble == true)
+    {
+        textViewKibbleRezepte = "Recetas de pienso - mostrar";
+    }
+    else
+    {
+        textViewKibbleRezepte = "Recetas de pienso - ocultar";
+    }
+
+    if (hideStarve == true)
+    {
+        textViewStarveTimer = "Temporizador de hambre - mostrar";
+    }
+    else
+    {
+        textViewStarveTimer = "Temporizador de hambre - ocultar";
+    }
+
+    if (hideNarco == true)
+    {
+        textViewNarcoticTimer = "Temporizador de narcóticos - mostrar";
+    }
+    else
+    {
+        textViewNarcoticTimer = "Temporizador de narcóticos - ocultar";
+    }
+
+    if (hide == true)
+    {
+        textViewsum = "Detalles - mostrar";
+    }
+    else
+    {
+        textViewsum = "Detalles - ocultar";
+    }
+
+    if (hideBreeding == true)
+    {
+        textViewtimesofbreeding = "Tiempos de cría - mostrar";
+    }
+    else
+    {
+        textViewtimesofbreeding = "Tiempos de cría - ocultar";
+    }
+    Name_Mushroom = "Hongo";
+    MoreTools = "Más herramientas";
+    Singleplayer = "Opciones de un jugador";
+    SwitchConsole = "Configuraciones de Ark Switch";
+    Mobile = "Configuraciones de Ark Mobile";
+    TamingBoost = "Bálsamo tranquilizante";
+    torporx = "Criatura variante X";
